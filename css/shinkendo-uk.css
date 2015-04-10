@@ -1,3 +1,9 @@
+@media(min-width:768px) {
+	.intro .intro-body h1.brand-heading{
+		font-size: 70px;
+	}
+}
+
 a.navbar-brand img {
     display: inline-block;
 }
