@@ -85,34 +85,6 @@ section h5 {
 	margin-bottom: 10px;
 }
 
-@media (min-width:992px) {
-	section p .inline-picture { 
-	    float: left; 
-	    margin-right:10px; 
-	}
-	section .picture {
-	   width: 600px;
-	}
-}
-@media (min-width:768px) and (max-width:992px) {
-    section p .inline-picture { 
-        margin:auto;
-        margin-bottom: 20px; 
-    }
-    section .picture {
-       width: 400px;
-    }   
-}
-
-@media(max-width:768px) {
-    section p .inline-picture { 
-        margin:auto;
-        margin-bottom: 20px; 
-    }
-    section .picture {
-       width: 300px;
-    }
-}
 
 .videowrapper {
     float: none;
@@ -131,6 +103,41 @@ section h5 {
     height: 100%;
 }
 
+@media (min-width:992px) {
+	section p .inline-picture { 
+	    float: left; 
+	    margin-right:10px; 
+	}
+	section .picture {
+	   width: 600px;
+	}
+	.videowrapper {
+	   
+	}
+}
+@media (min-width:768px) and (max-width:992px) {
+    section p .inline-picture { 
+        margin:auto;
+        margin-bottom: 20px; 
+    }
+    section .picture {
+       width: 400px;
+    }
+    .videowrapper {
+       
+    }
+}
+
+@media(max-width:768px) {
+    section p .inline-picture { 
+        margin:auto;
+        margin-bottom: 20px; 
+    }
+    section .picture {
+       width: 300px;
+    }
+}
+
 section.content-section p,
 section.content-section table tr th,
 section.content-section table tr td,
@@ -140,7 +147,7 @@ section.content-section ol li{
 }
 
 section .videowrapper {
-	margin: 20px 0px;
+	margin: 20px auto;
 }
 
 section.content-section table tr th,
@@ -154,4 +161,13 @@ section.content-section table tr th{
 section #ggg{
 	width: 400px; 
 	border: 40px solid #FFF;
+}
+section .instructors-section ul,
+section .dojo-section ul{
+	list-style: none;
+	padding:0px;
+}
+
+#map{
+	margin-top:0px;
 }

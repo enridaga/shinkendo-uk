@@ -38,17 +38,18 @@ function init(){
 	$('.map').each(function(){
 		var lat = $(this).data('lat');
 		var long = $(this).data('long');
-		initMap(lat, long, this);
+		var zoom = $(this).data('zoom');
+		initMap(lat, long, zoom, this);
 	});
 	
 }
-function initMap(lat, long, mapObj) {
+function initMap(lat, long, zoom, mapObj) {
 	
     // Basic options for a simple Google Map
     // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
     var mapOptions = {
         // How zoomed in you want the map to start at (always required)
-        zoom: 15,
+        zoom: zoom,
 
         // The latitude and longitude to center the map (always required)
         center: new google.maps.LatLng(lat, long),
