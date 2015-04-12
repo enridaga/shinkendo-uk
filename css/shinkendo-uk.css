@@ -1,3 +1,17 @@
+/* fixes to greyscale */
+.navbar-nav li .dropdown-menu {
+/*    background-color: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.2); */
+}
+.navbar-nav li.active ul.dropdown-menu li a:hover,
+.navbar-nav li ul.dropdown-menu li.active a:focus,
+.navbar-nav li ul.dropdown-menu li.active a:hover,
+.navbar-nav li ul.dropdown-menu li.active a{
+	color: #999;
+}
+
+/* changes for shinkendo theme */
+
 @media(min-width:768px) {
 	.intro .intro-body h1.brand-heading{
 		font-size: 70px;
