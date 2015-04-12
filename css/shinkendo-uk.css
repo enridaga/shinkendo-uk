@@ -171,3 +171,10 @@ section .dojo-section ul{
 #map{
 	margin-top:0px;
 }
+img.icon {
+    width: 16px;
+    display: inline-block;
+}
+a img.icon {
+  background-color: #42DCA3;
+}
