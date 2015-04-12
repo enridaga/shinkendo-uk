@@ -2,12 +2,23 @@
 .navbar-nav li .dropdown-menu {
 /*    background-color: rgba(255, 255, 255, 0.2);
     border-color: rgba(255, 255, 255, 0.2); */
+    padding: 0px;
+    background-color: #000;
+}
+.navbar-nav li .dropdown-menu li{
+	background-color: rgba(255, 255, 255, 0.2);
+}
+.navbar-nav li .dropdown-menu li a{
+	color: #FFF;
+}
+.navbar-nav li .dropdown-menu li.divider{
+	margin: 0px;
 }
 .navbar-nav li.active ul.dropdown-menu li a:hover,
 .navbar-nav li ul.dropdown-menu li.active a:focus,
 .navbar-nav li ul.dropdown-menu li.active a:hover,
 .navbar-nav li ul.dropdown-menu li.active a{
-	color: #999;
+	color: #CCC;
 }
 
 /* changes for shinkendo theme */
