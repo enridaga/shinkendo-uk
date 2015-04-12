@@ -178,3 +178,22 @@ img.icon {
 a img.icon {
   background-color: #42DCA3;
 }
+
+.intro{
+    background-image: url(../img/way_2.jpg);
+    /* background-image: url(../img/fight.jpg); */
+}
+
+#training{
+	display: table;
+    width: 100%;
+    height: 500px;
+    /* text-align: center; */
+    color: #FFF;
+    background: url(../img/training_2.jpg) no-repeat top center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
