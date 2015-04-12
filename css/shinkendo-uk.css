@@ -20,8 +20,26 @@
 .navbar-nav li ul.dropdown-menu li.active a{
 	color: #CCC;
 }
+.content-section {
+    padding-top: 100px;
+}
+.content-section ul,
+.content-section ol{
+    margin: 0px 0px 35px;
+}
+.content-section ul li,
+.content-section ol li{
+	font-size: 20px;
+}
 
 /* changes for shinkendo theme */
+
+/* RED: #82000C */
+
+html body .red,
+h1,h2,h3,h4,h5,h6{
+	color: #82000C; 
+}
 
 @media(min-width:768px) {
 	.intro .intro-body h1.brand-heading{
@@ -45,4 +63,95 @@ a.navbar-brand span {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;*/
+}
+.video-section{
+	padding-bottom: 100px;
+}
+.contact-section{
+	padding-bottom: 100px;
+}
+section p .inline-picture {
+	display: block; 
+	margin-top:10px;
+}
+
+section .picture{
+    display: block;	
+    margin: auto;
+    margin-bottom: 35px;
+}
+
+section h5 {
+	margin-bottom: 10px;
+}
+
+@media (min-width:992px) {
+	section p .inline-picture { 
+	    float: left; 
+	    margin-right:10px; 
+	}
+	section .picture {
+	   width: 600px;
+	}
+}
+@media (min-width:768px) and (max-width:992px) {
+    section p .inline-picture { 
+        margin:auto;
+        margin-bottom: 20px; 
+    }
+    section .picture {
+       width: 400px;
+    }   
+}
+
+@media(max-width:768px) {
+    section p .inline-picture { 
+        margin:auto;
+        margin-bottom: 20px; 
+    }
+    section .picture {
+       width: 300px;
+    }
+}
+
+.videowrapper {
+    float: none;
+    clear: both;
+    width: 100%;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+}
+.videowrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+section.content-section p,
+section.content-section table tr th,
+section.content-section table tr td,
+section.content-section ul li,
+section.content-section ol li{
+    font-size: 18px;
+}
+
+section .videowrapper {
+	margin: 20px 0px;
+}
+
+section.content-section table tr th,
+section.content-section table tr td {
+    padding: 5px;
+	vertical-align: top;
+}
+section.content-section table tr th{
+    padding-top: 20px;
+}
+section #ggg{
+	width: 400px; 
+	border: 40px solid #FFF;
 }
