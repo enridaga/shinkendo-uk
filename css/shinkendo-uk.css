@@ -197,3 +197,18 @@ a img.icon {
     background-size: cover;
     -o-background-size: cover;
 }
+
+#tree{
+    display: table;
+    width: 100%;
+    height: 700px;
+    /* text-align: center; */
+    color: #FFF;
+    background: url(../img/tree.jpg) no-repeat center center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+	
+}
