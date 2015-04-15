@@ -114,6 +114,10 @@ section h5 {
 	.videowrapper {
 	   
 	}
+	section #ggg{
+	    width: 400px; 
+	    border: 40px solid #FFF;
+    }
 }
 @media (min-width:768px) and (max-width:992px) {
     section p .inline-picture { 
@@ -126,6 +130,10 @@ section h5 {
     .videowrapper {
        
     }
+    section #ggg{
+        width: 300px; 
+        border: 30px solid #FFF;
+    }
 }
 
 @media(max-width:768px) {
@@ -135,6 +143,10 @@ section h5 {
     }
     section .picture {
        width: 300px;
+    }
+    section #ggg{
+        width: 200px; 
+        border: 10px solid #FFF;
     }
 }
 
@@ -158,10 +170,7 @@ section.content-section table tr td {
 section.content-section table tr th{
     padding-top: 20px;
 }
-section #ggg{
-	width: 400px; 
-	border: 40px solid #FFF;
-}
+
 section .instructors-section ul,
 section .dojo-section ul{
 	list-style: none;
