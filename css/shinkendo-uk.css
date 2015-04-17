@@ -251,7 +251,6 @@ a img.icon {
     -o-background-size: cover;
 }
 
-
 #byron{
     display: table;
     width: 100%;
@@ -263,12 +262,25 @@ a img.icon {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
+    -o-background-size: cover;
+}
+
+#clem{
+    display: table;
+    width: 100%;
+    height: 700px;
+    /* text-align: center; */
+    color: #FFF;
+    background: url(../img/clem.jpg) no-repeat center center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
     -o-background-size: cover;  
 }
 
-
 #fight{
-        display: table;
+    display: table;
     width: 100%;
     height: 500px;
     /* text-align: center; */
