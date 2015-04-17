@@ -189,7 +189,8 @@ a img.icon {
 }
 
 .intro{
-    background-image: url(../img/way_2.jpg);
+    background-image: url(../img/way_3.jpg);
+    /* background-image: url(../img/way_2.jpg); */
     /* background-image: url(../img/fight.jpg); */
 }
 
