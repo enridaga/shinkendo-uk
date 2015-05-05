@@ -41,7 +41,8 @@ h1,h2,h3,h4,h5,h6{
 	color: #82000C; 
 }
 h1.brand-heading{
-font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;	
+        font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;	
+        text-transform: none;
 }
 @media(min-width:768px) {
 	.intro .intro-body h1.brand-heading{
