@@ -326,3 +326,15 @@ div.background-dark{
     background-color: #2a2a2a;
     width: 100%;
 }
+
+ul.social-bar {
+	margin: 0px;
+	padding: 0px;
+}
+ul.social-bar li {
+	display: inline-block;
+}
+ul.social-bar li a:hover,
+ul.social-bar li a {
+	border: none;
+}
