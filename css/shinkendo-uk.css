@@ -328,7 +328,9 @@ div.background-dark{
 }
 
 ul.social-bar {
-	margin: 0px;
+	display: block;
+	margin-top: -25px;
+	margin-bottom: 25px;
 	padding: 0px;
 }
 ul.social-bar li {
