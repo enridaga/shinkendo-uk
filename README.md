@@ -1,3 +1,8 @@
+# [Shinkendo UK Website](http://shinkendo.org.uk/) 
+The website of Shinkendo UK, England Branch of the International Shinkendo Federation, the Aikibujutsu Tanren Kenkyukai and the Kokusai Toyama Ryu Renmei organisations.
+
+The website is implemented from the grayscale theme:
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
 
 [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
