@@ -329,7 +329,7 @@ div.background-dark{
 
 ul.social-bar {
 	display: block;
-	margin-top: -25px;
+	/*margin-top: -25px;*/
 	margin-bottom: 25px;
 	padding: 0px;
 }
