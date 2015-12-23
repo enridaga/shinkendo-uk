@@ -43,7 +43,7 @@ h1,h2,h3,h4,h5,h6{
 h1.brand-heading{
         font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;	
         text-transform: none;
-        margin-top: 50px;
+        margin-top: 110px;
 }
 @media(min-width:768px) {
 	.intro .intro-body h1.brand-heading{
