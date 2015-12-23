@@ -346,3 +346,6 @@ ul.social-bar li a:hover,
 ul.social-bar li a {
 	border: none;
 }
+ul.invite-buttons li a {
+	background-color: rgba(0, 0, 0, 0.4);
+}
