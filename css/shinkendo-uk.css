@@ -164,6 +164,9 @@ section.content-section ol li{
     font-size: 18px;
 }
 
+section img.shirt.picture {
+	width: 260px;
+}
 section .videowrapper {
 	margin: 20px auto;
 }
