@@ -38,10 +38,10 @@
 
 html body .red,
 h1,h2,h3,h4,h5,h6{
-	color: #82000C; 
+	color: #82000C;
 }
 h1.brand-heading{
-        font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;	
+        font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
         text-transform: none;
         margin-top: 110px;
 }
@@ -77,12 +77,12 @@ a.navbar-brand span {
 	padding-bottom: 100px;
 }
 section p .inline-picture {
-	display: block; 
+	display: block;
 	margin-top:10px;
 }
 
 section .picture{
-    display: block;	
+    display: block;
     margin: auto;
     margin-bottom: 35px;
 }
@@ -110,48 +110,48 @@ section h5 {
 }
 
 @media (min-width:992px) {
-	section p .inline-picture { 
-	    float: left; 
-	    margin-right:10px; 
+	section p .inline-picture {
+	    float: left;
+	    margin-right:10px;
 	}
 	section .picture {
 	   width: 600px;
 	}
 	.videowrapper {
-	   
+
 	}
 	section #ggg{
-	    width: 400px; 
+	    width: 400px;
 	    border: 40px solid #FFF;
     }
 }
 @media (min-width:768px) and (max-width:992px) {
-    section p .inline-picture { 
+    section p .inline-picture {
         margin:auto;
-        margin-bottom: 20px; 
+        margin-bottom: 20px;
     }
     section .picture {
        width: 400px;
     }
     .videowrapper {
-       
+
     }
     section #ggg{
-        width: 300px; 
+        width: 300px;
         border: 30px solid #FFF;
     }
 }
 
 @media(max-width:768px) {
-    section p .inline-picture { 
+    section p .inline-picture {
         margin:auto;
-        margin-bottom: 20px; 
+        margin-bottom: 20px;
     }
     section .picture {
        width: 300px;
     }
     section #ggg{
-        width: 200px; 
+        width: 200px;
         border: 10px solid #FFF;
     }
 }
@@ -165,6 +165,9 @@ section.content-section ol li{
 }
 
 section img.shirt.picture {
+	/*width: 260px;*/
+}
+section img.dvd.picture {
 	width: 260px;
 }
 section .videowrapper {
@@ -228,7 +231,7 @@ a img.icon {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;  
+    -o-background-size: cover;
 }
 
 #ablogo{
@@ -238,7 +241,7 @@ a img.icon {
     /* text-align: center; */
     color: #FFF;
     background: url(../img/aikibujitsulogo_mini.jpg) no-repeat center center scroll;
-    background-color: #FFF; 
+    background-color: #FFF;
     -webkit-background-size: 100px;
     -moz-background-size: 100px;
     background-size: 100px;
@@ -284,7 +287,7 @@ a img.icon {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;  
+    -o-background-size: cover;
 }
 
 #scott{
@@ -298,7 +301,7 @@ a img.icon {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;  
+    -o-background-size: cover;
 }
 
 #fight{
@@ -351,4 +354,30 @@ ul.social-bar li a {
 }
 ul.invite-buttons li a {
 	background-color: rgba(0, 0, 0, 0.15);
+}
+
+@media(min-width:768px) {
+  /* Fix navbar background */
+  body.shinkendo-page-learn nav.navbar-custom{
+    background-color: #000;
+  }
+  body.shinkendo-page-instructors nav.navbar-custom{
+    background-color: #82000C;
+  }
+  body.shinkendo-page-instructors a.navbar-brand span.red {
+    color: #FFF;
+  }
+}
+
+
+p.purchase-info {
+  font-weight: bold;
+  font-size: 0.9em;
+}
+.background-white .btn {
+  /*background-color: rgba(0, 0, 0, 0.05);*/
+}
+
+#records{
+  background-color: #FFF;
 }
