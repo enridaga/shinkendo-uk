@@ -64,7 +64,7 @@ This service is also open to companies who wish to provide some training to thei
 <h3>Past events:</h3>
 <h4>Sensei Obata (19-22 May 2016)</h4>
 <p>A 4 day intense training session with the founder of Shinkendo, <a href="#obata">Toshishiro Obata Kaiso</a>.  This is an open seminar available to all.
-<br/>Videos of the seminar are <a href="#video">for sale</a>.</p>
+<br/>Access to the videos of the Shinkendo and Aikibujutsu seminars <a href="#records">can be purchased</a>.</p>
 
                 </div>
 			</div>
