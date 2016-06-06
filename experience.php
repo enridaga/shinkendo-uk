@@ -63,7 +63,8 @@ This service is also open to companies who wish to provide some training to thei
 
 <h3>Past events:</h3>
 <h4>Sensei Obata (19-22 May 2016)</h4>
-<p>A 4 day intense training session with the founder of Shinkendo, <a href="#obata">Toshishiro Obata Kaiso</a>.  This is an open seminar available to all.
+<p>A 4 day intense training session with the founder of Shinkendo, <a href="#obata">Toshishiro Obata Kaiso</a>.
+  <!-- This is an open seminar available to all. -->
 <br/>Access to the videos of the Shinkendo and Aikibujutsu seminars <a href="#records">can be purchased</a>.</p>
 
                 </div>
@@ -99,17 +100,23 @@ This service is also open to companies who wish to provide some training to thei
                 <div class="container">
                     <div class="col-lg-8 col-lg-offset-2">
     					          <small>Experience</small>
-                        <h3>DVD</h3>
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
+                        <h3>DVD <br/><small>(YouTube private access)</small></h3>
+                        <p class="purchase-info">Notice: when purchasing, please provide an email address linked to your YouTube account. <br/>
+                          Access will be granted to that email address and YouTube account only.</p>
+                       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
                         <h2>Budo Ashisabaki</h2>
                   			<img class="dvd picture" src="img/budo-ashisabaki-dvd.jpg" />
-                        <a class="btn btn-default btn-lg">Buy DVD</a>
+                        <a class="btn btn-default btn-lg"
+                        href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SF9QNV9QGMQ7G"
+                        >Purchase access</a>
                         <br/><br/>  <br/><br/>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
                         <h2>Shinkendo</h2>
                   			<img class="dvd picture" src="img/shinkendo-dvd.jpg" />
-                        <a class="btn btn-default btn-lg">Buy DVD</a>
+                        <a class="btn btn-default btn-lg"
+                        href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PXFSQ6MLY4UW6"
+                        >Purchase access</a>
                         <br/><br/>  <br/><br/>
                         </div>
                     </div>

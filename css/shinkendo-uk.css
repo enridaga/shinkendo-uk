@@ -381,3 +381,7 @@ p.purchase-info {
 #records{
   background-color: #FFF;
 }
+
+.btn.btn-default{
+  white-space: normal;
+}
