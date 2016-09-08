@@ -56,12 +56,14 @@ This service is also open to companies who wish to provide some training to thei
 
 <h3>Seminars:</h3>
 <!-- <a href="https://docs.google.com/forms/d/1mLwIJNvgnuWJ27JVtzNZ4fGKyp4-VZCM7cF6W4uMQgA/viewform" class="btn btn-default btn-lg">Register now</a></p> -->
+<p>To be announced.</p>
+
+<h3>Past events:</h3>
 
 <h4>Introduction to Shinkendo (21 August 2016)</h4>
 <p>A one day intense training session, which aims to introduce complete beginners to the art of Shinkendo.<br/><br/>
-<a href="https://docs.google.com/forms/d/1AijUQDfcWSjSpyh-IZECWpOFRXoVe5nuCUyRJJVIyO8/viewform" class="btn btn-default btn-lg">Register now</a></p>
+<!-- <a href="https://docs.google.com/forms/d/1AijUQDfcWSjSpyh-IZECWpOFRXoVe5nuCUyRJJVIyO8/viewform" class="btn btn-default btn-lg">Register now</a> --></p>
 
-<h3>Past events:</h3>
 <h4>Sensei Obata (19-22 May 2016)</h4>
 <p>A 4 day intense training session with the founder of Shinkendo, <a href="#obata">Toshishiro Obata Kaiso</a>.
   <!-- This is an open seminar available to all. -->

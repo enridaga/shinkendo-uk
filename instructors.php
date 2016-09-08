@@ -112,12 +112,21 @@ In 1980, Mr. Obata came to the USA to pursue the development of his career as an
                     <small>Instructors</small>
                     <h2>Shepherd Sensei<br/><small>UK Chief Instructor - Byron Shepherd</small></h2>
 <ul>
-<li>Shinkendo Rank: Ji-e / Shoden Renshi
+<!-- <li>Shinkendo Rank: Ji-e / Shoden Renshi
 <li>Toyama-Ryu Rank: Sandan
 <li>Aikido Rank: Sandan / Renshi
 <li>Aikibujutsu Rank: Sandan / Renshi
 <li>Karate Rank: Nidan
 <li>Bojutsu: Shodan
+	 -->
+<li>Shinkendo Rank: Ji-e / Shoden Renshi
+<li>Toyama-Ryu Rank: Sandan
+<li>Aikido Rank: Yondan / Renshi
+<li>Aikibujutsu Rank: Yondan / Renshi
+<li>Karate Rank: Nidan
+<li>Bojutsu: Shodan
+<li>Crossfit LV.1 Trainer
+<li>Crossfit Defence Trainer
 </ul>
 <p>
 <span class="inline-picture"><img style="width:300px" class="picture" src="img/aikido_4.jpg"></span>Shepherd Sensei has a strong interest in Japanese martial arts, which began at a young age. As a child he studied Karate and eventually gained his black belt. In his early twenty's he traveled frequently to train with some of the world’s best martial art masters. In doing so he gained extensive experience in Aikikai Aikido, Shodokan Aikido, Aikijujutsu and Traditional Jujutsu.  His travels eventually led him to Obata Sensei who upon watching him demonstrate his technical prowess, he made it his life’s mission to train with and learn everything he could from this martial arts master.

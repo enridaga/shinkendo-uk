@@ -12,17 +12,17 @@
 		                    <!-- <li>
 		                        <a href="https://docs.google.com/forms/d/1mLwIJNvgnuWJ27JVtzNZ4fGKyp4-VZCM7cF6W4uMQgA/viewform" class="btn btn-default btn-lg">Obata Seminar, 19-22 May 2016</a>
 		                    </li> -->
-                        <li title="A one day intense training session, which aims to introduce complete beginners to the art of Shinkendo.">
+                        <!-- <li title="A one day intense training session, which aims to introduce complete beginners to the art of Shinkendo.">
                             <a href="https://docs.google.com/forms/d/1AijUQDfcWSjSpyh-IZECWpOFRXoVe5nuCUyRJJVIyO8/viewform" class="btn btn-default btn-lg">Introduction to Shinkendo, 21 August 2016</a>
-                        </li>
+                        </li> -->
 
 				</ul>
         <ul class="list-inline banner-social-buttons">
           <li>
-              <a href="https://docs.google.com/forms/d/1frXO8Xrw0hOxDBfE5A-nZNceMGdNL_wZLzZj5iBj9kQ/viewform" class="btn btn-default btn-lg">Join Now</a>
+              <a href="https://docs.google.com/forms/d/1frXO8Xrw0hOxDBfE5A-nZNceMGdNL_wZLzZj5iBj9kQ/viewform" target="_join_shinkendo" title="Join Now" class="btn btn-default btn-lg">Join Now</a>
           </li>
          <li>
-          		                        <a href="https://calendar.google.com/calendar/embed?src=byron.l.shepherd%40gmail.com&ctz=Europe%2FLondon" class="btn btn-default btn-lg">Calendar</a>
+          		                        <a href="https://calendar.google.com/calendar/embed?src=byron.l.shepherd%40gmail.com&ctz=Europe%2FLondon" target="_calendar" title="Calendar" class="btn btn-default btn-lg">Calendar</a>
             </li>
         </ul>
                 <ul class="list-inline banner-social-buttons">
