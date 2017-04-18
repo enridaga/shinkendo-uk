@@ -18,6 +18,9 @@
 
 				</ul>
         <ul class="list-inline banner-social-buttons">
+            <li>
+                <a target="_join_shinkendo" title="Book an Intro Course" href="https://docs.google.com/forms/d/e/1FAIpQLSd1oKygcxfaIWT176wQJJRa36pSfoh9YMmq9b1mymkMPK4ATA/viewform?usp=sf_link" class="btn btn-default btn-lg">Book an Intro Course</a>
+            </li>
           <li>
               <a href="https://docs.google.com/forms/d/1frXO8Xrw0hOxDBfE5A-nZNceMGdNL_wZLzZj5iBj9kQ/viewform" target="_join_shinkendo" title="Join Now" class="btn btn-default btn-lg">Join Now</a>
           </li>

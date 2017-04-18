@@ -331,6 +331,12 @@ div.background-grey{
     background-color: #DDD;
     width: 100%;
 }
+div.background-grey a {
+	color: #82000C;
+}
+div.background-grey a:hover {
+	color: rgba(130,0,12,0.65);
+}
 div.background-dark{
     padding: 0px;
     margin: 0px;
